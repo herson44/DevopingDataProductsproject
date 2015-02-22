@@ -1,0 +1,7 @@
+How to run the App:
+
+Download both server and ui file and put in the same charter.
+Open Rstudio and set working directory with a direction that contain the folter with the two files
+(Do not set the direction inside the folder)
+Run the code runApp("name of the folder") 
+An html5 file most be appear

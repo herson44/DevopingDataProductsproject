@@ -1,2 +1,12 @@
 This is a very simple application create to demostrate the domain of shity. 
 Is part of the developing data product Course of Data Science Specialiciation of Jhons Hopkings University.
+
+My objective is just present a created run app of shiny in order to practice.
+
+Reference:
+
+I based my code in the shiny example:
+
+http://shiny.rstudio.com/tutorial/
+
+
