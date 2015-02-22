@@ -8,20 +8,20 @@ library(shiny)
 ## Define UI for application that draws a histogram
 shinyUI(fluidPage(
   
-  # Application title
+## Title
   titlePanel("Manipulable Histogram"),
   
-  # Sidebar with a slider input for the number of bins
+##slide bar
   sidebarLayout(
     sidebarPanel(
       sliderInput("samples",
                   "Number of samples:",
                   min = 1,
                   max = 50,
-                  value = 30)
+                  value = 5)
     ),
     
-    # Show a plot of the generated distribution
+## Dsitribution by number of samples
     mainPanel(
       plotOutput("distPlot")
     )
