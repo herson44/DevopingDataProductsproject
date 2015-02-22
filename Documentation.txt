@@ -1,0 +1,2 @@
+This is a very simple application create to demostrate the domain of shity. 
+Is part of the developing data product Course of Data Science Specialiciation of Jhons Hopkings University.
